@@ -8,4 +8,4 @@ Replace in **webserver/upload.php** field named **$tokens = array("token")** wit
 Edit **i.conf** following fields:
 - i.domain.com to your domain or subdomain;
 - your SSL certificate;
-- your directory location (if you want, it configured to run on **/var/www/i**).
+- your directory location (if you want, it is configured to run on **/var/www/i**).
